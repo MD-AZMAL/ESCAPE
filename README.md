@@ -1,5 +1,5 @@
 # ESCAPE
-The escape key of my keyboard was broken ... so now i yell ESCAPE!! to use it XD
+The escape key on my keyboard was broken ... so now i yell ESCAPE!! to use it XD
 
 ## I was bored so i made this .... don't judge me on the basis of this project
 
