@@ -5,6 +5,7 @@ The escape key on my keyboard was broken ... so now i yell ESCAPE!! to use it XD
 
 ## Requirements
 ```shell
+sudo apt-get install portaudio19-dev python-pyaudio
 pip3 install pyaudio
 pip3 install SpeechRecognition
 ```
